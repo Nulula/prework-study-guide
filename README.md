@@ -1,4 +1,4 @@
-# <Marta's Prework Study Guide>
+# Marta's Prework Study Guide
 
 ## Description
 
