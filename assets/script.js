@@ -1,4 +1,4 @@
-/*
+/* everything here is a comment
 var topic = "HTML";
 
 if (topic === 'HTML') {
